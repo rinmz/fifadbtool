@@ -1,0 +1,24 @@
+# Python cache and virtual env
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Build artifacts
+build/
+dist/
+*.toc
+*.pyz
+*.pkg
+
+# PyInstaller generated variants
+FIFA07_DB_Switcher_v*.spec
+
+# IDE / OS
+.vscode/
+.idea/
+*.log
+*.tmp
+*.lnk
